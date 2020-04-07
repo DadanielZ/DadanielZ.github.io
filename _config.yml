@@ -5,7 +5,7 @@ description:        "From 0 to 1."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/bg.jpg'
+background:         'assets/img/geek-wallpaper-7.jpg'
 tiled_bg:           false  # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://www.zhouda.tech
